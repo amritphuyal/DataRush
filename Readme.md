@@ -8,7 +8,7 @@
 ## Environment
 
 - Windows 11 pro
-- Python 3.10.1 (64bit)
+- Python 3.9.9 (64bit)
 - Vscode with Jupyter extension
 
 ## Steps to Run
